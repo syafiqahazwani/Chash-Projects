@@ -1,0 +1,5 @@
+C:\Users\Syafiqah\source\repos\Chess\ChessLogic\obj\Debug\netstandard2.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Syafiqah\source\repos\Chess\ChessLogic\obj\Debug\netstandard2.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syafiqah\source\repos\Chess\ChessLogic\obj\Debug\netstandard2.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Syafiqah\source\repos\Chess\ChessLogic\obj\Debug\netstandard2.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Syafiqah\source\repos\Chess\ChessLogic\obj\Debug\netstandard2.0\ChessLogic.csproj.CoreCompileInputs.cache
